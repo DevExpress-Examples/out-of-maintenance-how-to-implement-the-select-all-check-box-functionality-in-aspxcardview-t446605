@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [WebForm1.aspx](./CS/DxExample/WebForm1.aspx) (VB: [WebForm1.aspx.vb](./VB/DxExample/WebForm1.aspx.vb))
+* [WebForm1.aspx](./CS/DxExample/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/DxExample/WebForm1.aspx))
 * [WebForm1.aspx.cs](./CS/DxExample/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/DxExample/WebForm1.aspx.vb))
 <!-- default file list end -->
 # How to implement the "Select All" check box functionality in ASPxCardView
